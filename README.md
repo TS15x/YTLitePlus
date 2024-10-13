@@ -7,20 +7,11 @@
 <a href="https://balackburn.github.io/YTLitePlus"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Website.png" height="70"></a>
 &nbsp;
 
-![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/YTLitePlus?style=flat&labelColor=%23000000&color=%23000000)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2014.0%2B-black?labelColor=black&style=flat)](https://developer.apple.com/iphone/index.action)
-<a href="https://github.com/YTLitePlus/YTLitePlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Balackburn/YTLitePlus?style=flat&color=black&labelColor=black&logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
-<a href="https://github.com/YTLitePlus/YTLitePlus/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Balackburn/YTLitePlus?labelColor=black&style=flat&color=black&label=Latest%20release" alt="Badge"></img></a>
-
 # Table of Contents
 <a href="#credits"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Credits.png" width="170"></a>
-
 <a href="#features"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Features.png" width="170"></a>
-
 <a href="#altstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Altstore.png" width="170"></a>
-
 <a href="#donations"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Donations.png" width="170"></a>
-
 <a href="#building"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Building.png" width="170"></a>
 
 # Credits
@@ -116,25 +107,22 @@
   
 <a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
 &nbsp;
-
 <a href="https://altsource.by.lao.sb/browse/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Altstore/altsource.by.lao.sb.png" width="200"></a>
 &nbsp;
-
 <a href="https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Altstore/URL.png" width="200"></a>
 
 # Donations
 <a href="https://buymeacoffee.com/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(buymeacoffee).png" width="200"></a>
 &nbsp;
 <a href="https://github.com/sponsors/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(Github).png" width="200"></a>
-
 <a href="https://ko-fi.com/dayanch966"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(ko-fi).png" width="200"></a>
 &nbsp;
-<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
 
 <a href="https://www.paypal.com/paypalme/DBrett684"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Paypal).png" width="200"></a>
 &nbsp;
 <a href="https://venmo.com/u/DavidBrett"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Venmo).png?raw=true" width="200"></a>
 
+<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
 
 <a href="https://github.com/MiRO92/uYou-for-YouTube#support"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Donations/MIRO92.png" width="200"></a>
 &nbsp;
